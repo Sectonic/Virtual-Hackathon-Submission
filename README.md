@@ -1,6 +1,6 @@
-# HitchHikr
+# HitchHikr: A Virtual Global Hackathon Submission
 
-**HitchHikr** is a mobile app that provides a seamless carpooling experience, designed to help users efficiently commute while reducing traffic congestion and carbon emissions.
+**HitchHikr** is a mobile app that provides a smooth carpooling experience, designed to help users efficiently commute while reducing traffic congestion and carbon emissions.
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Flask API Endpoints](#flask-api-endpoints)
+- [API Endpoints](#api-endpoints)
 
 ## Introduction
 
@@ -48,7 +48,7 @@ Key benefits of HitchHikr:
 3. Search for suitable carpools based on your location, destination, and preferences.
 4. Join carpool routes and enjoy an efficient and eco-friendly commute.
 
-## Flask API Endpoints
+## API Endpoints
 
 #### Get Carpool Route
 
